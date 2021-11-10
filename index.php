@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<?php include("header.html"); ?>
-		<div id="header"></div>
+		<!-- <div id="header"></div> -->
 		<h1>from index page</h1>
 		<!--Remaining section-->
 		<!-- <div id="footer"></div> -->
